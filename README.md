@@ -1,3 +1,3 @@
 # exercise-repo
 repo for first exercises
-Added new text in Readme file
+Added text in Readme file
